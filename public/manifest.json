@@ -1,0 +1,8 @@
+{
+  "name": "origin",
+  "short_name": "origin",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
